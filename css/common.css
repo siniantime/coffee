@@ -1,0 +1,12 @@
+.pull-left {float: left;}
+.pull-right {float: right;}
+.clearfix:before,.clearfix:after {content: " "; display: table;}
+.clearfix:after {clear: both;}
+.clearfix {zoom: 1;}
+
+.head {height: 107px;}
+.head .logo {margin: 19px 0 0 254px;}
+.head .nav {margin:56px 166px 0 0;}
+.head .nav .item {display: inline-block; width: 118px; text-align: center; font-size: 16px;}
+.head .nav .item a {display: inline-block; padding-bottom: 13px;}
+.head .nav .item a:hover {border-bottom: solid 2px #666364;}
